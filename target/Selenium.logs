@@ -1,2 +1,8 @@
-12:04:06,573  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Plus operation-----
-12:04:25,871  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Plus operation-----
+15:07:10,555  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Operaciones de dos numeros enteros positivos-----
+15:07:17,448  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Operaciones de dos numeros enteros positivos-----
+15:07:17,509  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Operaciones de dos numeros enteros positivos-----
+15:07:22,923  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Operaciones de dos numeros enteros positivos-----
+15:07:22,985  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Operaciones de dos numeros enteros positivos-----
+15:07:29,024  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Operaciones de dos numeros enteros positivos-----
+15:07:29,083  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Operaciones de dos numeros enteros positivos-----
+15:07:33,759  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Operaciones de dos numeros enteros positivos-----
