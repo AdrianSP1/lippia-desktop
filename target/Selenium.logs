@@ -1,0 +1,2 @@
+12:04:06,573  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----Plus operation-----
+12:04:25,871  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:25 - ------ Ending -----Plus operation-----

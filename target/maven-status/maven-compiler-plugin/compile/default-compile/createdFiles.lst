@@ -1,0 +1,6 @@
+com\crowdar\examples\services\CalculatorService.class
+CrowdTestNgParallelRunner.class
+com\crowdar\examples\report\CucumberReporter.class
+CrowdTestNgRunner.class
+com\crowdar\examples\constants\CalculatorConstants.class
+com\crowdar\examples\steps\CalculatorSteps.class
